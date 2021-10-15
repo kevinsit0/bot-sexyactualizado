@@ -1,1 +1,28 @@
-k
+# Módulos de Node.js
+módulos_nodo
+
+# sesión importante
+* .data.json
+
+# estado vim
+. * .swp
+
+# Bases de datos
+database.json
+* _database.json
+
+tmp
+
+# De acuerdo
+config.js
+
+# Credenciales de Google Drive?
+credentials.json
+token.json
+
+
+# propósitos de inspección del código fuente
+waweb
+# planeado
+cliente web
+package-lock.json
